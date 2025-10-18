@@ -1,4 +1,4 @@
-**Product Catalog Backend Service**
+**Product Catalog Manager**
 ===================================
 
 This project is a backend service designed for **Streamoid** to manage product catalogs efficiently. It provides a RESTful API that allows users to **upload CSV files**, **validate product data**, **store valid entries** in an SQLite database, and **search or retrieve** products with ease.
